@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="w">Pata huduma za Google Play</string>
+    <string name="x">Programu hii haiwezi kuendeshwa bila huduma za Google Play, ambazo hazipo kwenye simu yako.</string>
+    <string name="y">Programu hii haiwezi kufanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye kompyuta kibao yako.</string>
+    <string name="z">Pata huduma za Google Play</string>
+    <string name="a0">Wezesha huduma za Google Play</string>
+    <string name="a1">Programu hii haitafanya kazi mpaka utakapowezesha huduma za Google Play.</string>
+    <string name="a2">Wezesha huduma za Google Play</string>
+    <string name="a3">Sasisha huduma za Google Play</string>
+    <string name="a4">Programu hii haiwezi kuendeshwa mpaka utakaposasisha huduma za Google Play.</string>
+    <string name="a5">Suala lisilojulikana na huduma za Google Play.</string>
+    <string name="a6">Huduma za Google Play</string>
+    <string name="a7">Huduma za Google Play, ambazo baadhi ya programu zako zinategemea, si linganifu na kifaa chako. Tafadhali wasiliana na mtengenezaji kwa usaidizi.</string>
+    <string name="a8">Sasisha</string>
+    <string name="a9">Ingia</string>
+    <string name="a_">Ingia ukitumia Google</string>
+    <string name="aa">Hitilafu kwenye huduma za Google Play</string>
+    <string name="ab">Programu inahitaji usakinishaji wa huduma za Google Play.</string>
+    <string name="ac">Programu inahitaji toleo jipya la huduma za Google Play.</string>
+    <string name="ad">Programu inahitaji huduma za Google Play ili iwashwe.</string>
+    <string name="ae">Imeombwa na %1$s</string>
+    <string name="af">Hitilafu ya Mtandao</string>
+    <string name="ag">Muunganisho wa data unahitajika ili kuunganisha kwenye huduma za Google Play.</string>
+    <string name="ah">Akaunti Batili</string>
+    <string name="ai">Akaunti iliyobainishwa haipo kwenye kifaa hiki. Tafadhali chagua akaunti tofauti.</string>
+    <string name="aj">Inaeonekana tarehe ya kifaa sio sahihi. Tafadhali angalia tarehe ya kifaa.</string>
+</resources>

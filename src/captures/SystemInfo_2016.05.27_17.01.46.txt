@@ -1,0 +1,1008 @@
+fACTIVITY MANAGER PENDING INTENTS (dumpsys activity intents)
+  * PendingIntentRecord{429d74c0 com.android.updater startService}
+  * PendingIntentRecord{42f104a0 com.android.updater startService}
+  * PendingIntentRecord{4256e298 com.cleanmaster.sdk broadcastIntent}
+  * PendingIntentRecord{42474870 com.tencent.mm startService}
+  * PendingIntentRecord{42ef4450 com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{433c3710 com.tencent.mm startService}
+  * PendingIntentRecord{430c7710 com.miui.providers.weather broadcastIntent}
+  * PendingIntentRecord{4285d880 com.tencent.mm startActivity}
+  * PendingIntentRecord{4284dfe8 android startActivity}
+  * PendingIntentRecord{43354fa8 com.miui.antispam startService}
+  * PendingIntentRecord{425a7698 com.kingroot.kinguser broadcastIntent}
+  * PendingIntentRecord{4267cfd0 com.tencent.mm startService}
+  * PendingIntentRecord{433156c8 com.android.calendar broadcastIntent}
+  * PendingIntentRecord{424d2000 android broadcastIntent}
+  * PendingIntentRecord{42a29470 com.android.settings broadcastIntent}
+  * PendingIntentRecord{432b7ab0 android startActivity}
+  * PendingIntentRecord{431c52b0 com.tencent.mm startActivity}
+  * PendingIntentRecord{4264cae0 com.qualcomm.services.location broadcastIntent}
+  * PendingIntentRecord{428c7080 android broadcastIntent}
+  * PendingIntentRecord{4290f9d0 com.xiaomi.market startService}
+  * PendingIntentRecord{42481e90 android broadcastIntent}
+  * PendingIntentRecord{4352ccc0 com.tencent.mm startService}
+  * PendingIntentRecord{42b86020 android broadcastIntent}
+  * PendingIntentRecord{4288be50 com.trafficctr.miui broadcastIntent}
+  * PendingIntentRecord{429ae8c8 android broadcastIntent}
+  * PendingIntentRecord{42a7d660 com.tencent.mm startActivity}
+  * PendingIntentRecord{42672800 android broadcastIntent}
+  * PendingIntentRecord{4332e1e8 com.android.settings startActivity}
+  * PendingIntentRecord{428c0450 com.iflytek.inputmethod broadcastIntent}
+  * PendingIntentRecord{4277ee40 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{4311d5d8 com.tencent.mm startService}
+  * PendingIntentRecord{43182968 com.miui.guardprovider startService}
+  * PendingIntentRecord{429f5128 android startActivity}
+  * PendingIntentRecord{42726868 android startActivity}
+  * PendingIntentRecord{43075738 com.android.thememanager startService}
+  * PendingIntentRecord{42613df8 com.tencent.mm startService}
+  * PendingIntentRecord{42b31260 android startActivity}
+  * PendingIntentRecord{4288c080 android startActivity}
+  * PendingIntentRecord{42699298 com.android.email broadcastIntent}
+  * PendingIntentRecord{42479ea8 android broadcastIntent}
+  * PendingIntentRecord{42a3d8d8 android broadcastIntent}
+  * PendingIntentRecord{42b16f60 android startActivity}
+  * PendingIntentRecord{435a0ee8 com.tencent.mm startService}
+  * PendingIntentRecord{42a31790 android broadcastIntent}
+  * PendingIntentRecord{43542448 com.miui.networkassistant broadcastIntent}
+  * PendingIntentRecord{434472d0 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{42f79e28 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{4290f1d0 com.android.settings startService}
+  * PendingIntentRecord{42938f68 com.iflytek.inputmethod broadcastIntent}
+  * PendingIntentRecord{43182e68 com.miui.guardprovider startService}
+  * PendingIntentRecord{439668d8 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{432adee8 com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{428c8bc0 android broadcastIntent}
+  * PendingIntentRecord{42a69ea8 com.xiaomi.market startActivity}
+  * PendingIntentRecord{42975560 android broadcastIntent}
+  * PendingIntentRecord{43211eb0 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{430a2748 com.android.ota broadcastIntent}
+  * PendingIntentRecord{43458440 com.android.settings broadcastIntent}
+  * PendingIntentRecord{433a3358 com.tencent.mm startActivity}
+  * PendingIntentRecord{4276ee60 com.tencent.mm startService}
+  * PendingIntentRecord{42a1a6a8 android broadcastIntent}
+  * PendingIntentRecord{4303e390 com.xiaomi.xmsf broadcastIntent}
+  * PendingIntentRecord{42a85a08 android broadcastIntent}
+  * PendingIntentRecord{426f13d8 com.android.mms broadcastIntent}
+  * PendingIntentRecord{4246d8b0 com.xiaomi.xmsf broadcastIntent}
+  * PendingIntentRecord{427a9d90 android startActivity}
+  * PendingIntentRecord{42895438 android broadcastIntent}
+  * PendingIntentRecord{42598cf0 com.iflytek.inputmethod broadcastIntent}
+  * PendingIntentRecord{42c15328 com.android.phone broadcastIntent}
+  * PendingIntentRecord{426ab608 android broadcastIntent}
+  * PendingIntentRecord{433647c0 com.kingroot.kinguser broadcastIntent}
+  * PendingIntentRecord{43182560 com.miui.guardprovider startService}
+  * PendingIntentRecord{42b5d3e0 android broadcastIntent}
+  * PendingIntentRecord{4345f928 com.android.deskclock broadcastIntent}
+  * PendingIntentRecord{4257c1f0 com.tencent.mm startService}
+  * PendingIntentRecord{4278ad50 com.android.settings broadcastIntent}
+  * PendingIntentRecord{426fd440 com.android.updater startService}
+  * PendingIntentRecord{435d2d38 com.android.settings broadcastIntent}
+  * PendingIntentRecord{4275a7c8 com.android.settings broadcastIntent}
+  * PendingIntentRecord{4287a768 com.xiaomi.market startService}
+  * PendingIntentRecord{42e07788 com.iflytek.inputmethod broadcastIntent}
+  * PendingIntentRecord{42b83820 android broadcastIntent}
+  * PendingIntentRecord{427aa448 android broadcastIntent}
+  * PendingIntentRecord{429f6758 com.tencent.mm broadcastIntent}
+ 
+ACTIVITY MANAGER BROADCAST STATE (dumpsys activity broadcasts)
+  Historical broadcasts [foreground]:
+  #0: BroadcastRecord{43539ef8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #1: BroadcastRecord{431f7bc0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #2: BroadcastRecord{42f1e2d8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #3: BroadcastRecord{43401de8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #4: BroadcastRecord{4259df28 u-1 android.intent.action.SCREEN_ON}
+    act=android.intent.action.SCREEN_ON flg=0x50000010
+  #5: BroadcastRecord{43512df8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #6: BroadcastRecord{428c2bf8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #7: BroadcastRecord{43071b68 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #8: BroadcastRecord{4260d730 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #9: BroadcastRecord{4397b3d0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #10: BroadcastRecord{428e91f8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #11: BroadcastRecord{432a25b0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #12: BroadcastRecord{430ce4a8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #13: BroadcastRecord{4353a3c8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #14: BroadcastRecord{43457ba8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #15: BroadcastRecord{42c22af0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #16: BroadcastRecord{432825f8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #17: BroadcastRecord{432f3320 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #18: BroadcastRecord{4333f240 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #19: BroadcastRecord{4337f940 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #20: BroadcastRecord{4338b3a8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #21: BroadcastRecord{43a49be8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #22: BroadcastRecord{43aa39e8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #23: BroadcastRecord{42ba1588 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #24: BroadcastRecord{42620e80 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #25: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #26: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #27: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #28: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #29: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #30: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #31: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #32: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #33: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #34: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #35: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #36: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #37: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #38: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #39: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #40: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #41: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #42: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #43: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #44: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #45: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #46: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #47: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #48: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #49: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  ...
+
+  Historical broadcasts [background]:
+  #0: BroadcastRecord{42fc1888 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x8000010 (has extras)
+    extras: Bundle[{newRssi=-67}]
+  #1: BroadcastRecord{426c68e8 u0 null}
+    flg=0x14 (has extras)
+    targetComp: {com.tencent.mm/com.tencent.mm.booter.MMReceivers$AlarmReceiver}
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #2: BroadcastRecord{431f5e28 u0 ALARM_ACTION(11523)}
+    act=ALARM_ACTION(11523) flg=0x14 (has extras)
+    extras: Bundle[{ID=2606, PID=11523, android.intent.extra.ALARM_COUNT=1}]
+  #3: BroadcastRecord{42728928 u0 ALARM_ACTION(11523)}
+    act=ALARM_ACTION(11523) flg=0x14 (has extras)
+    extras: Bundle[{ID=2609, PID=11523, android.intent.extra.ALARM_COUNT=1}]
+  #4: BroadcastRecord{43421038 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{icon-small=17302851, scale=100, present=true, technology=Li-poly, level=84, voltage=4173, status=2, invalid_charger=0, plugged=1, health=2, temperature=282}]
+  #5: BroadcastRecord{4352cdc8 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{icon-small=17302851, scale=100, present=true, technology=Li-poly, level=84, voltage=4188, status=2, invalid_charger=0, plugged=1, health=2, temperature=281}]
+  #6: BroadcastRecord{435ac880 u0 com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver}
+    act=com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver flg=0x10 (has extras)
+    targetComp: {com.tencent.mm/com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver}
+    extras: Bundle[mParcelledData.dataSize=1012]
+  #7: BroadcastRecord{43961f00 u0 com.xiaomi.mipush.RECEIVE_MESSAGE}
+    act=com.xiaomi.mipush.RECEIVE_MESSAGE flg=0x10 pkg=com.android.browser (has extras)
+    extras: Bundle[mParcelledData.dataSize=912]
+  #8: BroadcastRecord{43983f98 u0 com.kingroot.master.action.NOTIFY_STATISTIC}
+    act=com.kingroot.master.action.NOTIFY_STATISTIC flg=0x10 pkg=com.kingroot.kinguser (has extras)
+    extras: Bundle[mParcelledData.dataSize=188]
+  #9: BroadcastRecord{439e3dc8 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x8000010 (has extras)
+    extras: Bundle[{newRssi=-61}]
+  #10: BroadcastRecord{430b62b0 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x8000010 (has extras)
+    extras: Bundle[{newRssi=-70}]
+  #11: BroadcastRecord{4349f3d0 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x8000010 (has extras)
+    extras: Bundle[{newRssi=-66}]
+  #12: BroadcastRecord{42438600 u0 com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver}
+    act=com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver flg=0x10 (has extras)
+    targetComp: {com.tencent.mm/com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver}
+    extras: Bundle[mParcelledData.dataSize=996]
+  #13: BroadcastRecord{42df3fd8 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x8000010 (has extras)
+    extras: Bundle[{newRssi=-67}]
+  #14: BroadcastRecord{427475f8 u0 com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver}
+    act=com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver flg=0x10 (has extras)
+    targetComp: {com.tencent.mm/com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver}
+    extras: Bundle[mParcelledData.dataSize=5524]
+  #15: BroadcastRecord{433b3818 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{icon-small=17302851, scale=100, present=true, technology=Li-poly, level=84, voltage=4184, status=2, invalid_charger=0, plugged=1, health=2, temperature=273}]
+  #16: BroadcastRecord{42478dd8 u0 com.kingroot.master.action.NOTIFY_STATISTIC}
+    act=com.kingroot.master.action.NOTIFY_STATISTIC flg=0x10 pkg=com.kingroot.kinguser (has extras)
+    extras: Bundle[mParcelledData.dataSize=188]
+  #17: BroadcastRecord{4248d440 u0 android.content.syncmanager.SYNC_ALARM}
+    act=android.content.syncmanager.SYNC_ALARM flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #18: BroadcastRecord{4307fc10 u0 null}
+    flg=0x10 (has extras)
+    targetComp: {com.tencent.mm/com.tencent.mm.booter.MMReceivers$ToolsProcessReceiver}
+    extras: Bundle[mParcelledData.dataSize=180]
+  #19: BroadcastRecord{43261f30 u0 com.tencent.mm.ui.ACTION_ACTIVE}
+    act=com.tencent.mm.ui.ACTION_ACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=288]
+  #20: BroadcastRecord{42f1f080 u0 com.tencent.mm.ui.ACTION_DEACTIVE}
+    act=com.tencent.mm.ui.ACTION_DEACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=288]
+  #21: BroadcastRecord{42ee0cb0 u0 com.tencent.mm.ui.ACTION_DEACTIVE}
+    act=com.tencent.mm.ui.ACTION_DEACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=228]
+  #22: BroadcastRecord{42a43c48 u0 com.tencent.mm.ui.ACTION_DEACTIVE}
+    act=com.tencent.mm.ui.ACTION_DEACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=228]
+  #23: BroadcastRecord{429c40f0 u0 com.tencent.mm.ui.ACTION_DEACTIVE}
+    act=com.tencent.mm.ui.ACTION_DEACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=264]
+  #24: BroadcastRecord{4259fb60 u0 com.tencent.mm.ui.ACTION_DEACTIVE}
+    act=com.tencent.mm.ui.ACTION_DEACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=256]
+  #25: act=com.tencent.mm.ui.ACTION_ACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=288]
+  #26: act=com.xiaomi.mipush.RECEIVE_MESSAGE flg=0x10 pkg=com.android.browser (has extras)
+    extras: Bundle[mParcelledData.dataSize=848]
+  #27: act=com.xiaomi.mipush.RECEIVE_MESSAGE flg=0x10 pkg=com.android.browser (has extras)
+    extras: Bundle[mParcelledData.dataSize=436]
+  #28: act=com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=15192]
+  #29: act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{icon-small=17302851, scale=100, present=true, technology=Li-poly, level=84, voltage=4171, status=2, invalid_charger=0, plugged=1, health=2, temperature=270}]
+  #30: act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{icon-small=17302851, scale=100, present=true, technology=Li-poly, level=84, voltage=4176, status=2, invalid_charger=0, plugged=1, health=2, temperature=269}]
+  #31: act=com.tencent.mm.sandbox.updater.intent.ACTION_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=136]
+  #32: act=com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP flg=0x10
+  #33: act=com.android.calendar.APPWIDGET_UPDATE flg=0x10
+  #34: act=android.intent.action.PROVIDER_CHANGED dat=content://com.android.calendar flg=0x10
+  #35: act=com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=3928]
+  #36: act=com.tencent.mm.ui.ACTION_ACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=256]
+  #37: act=com.tencent.mm.ui.ACTION_ACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=228]
+  #38: act=com.tencent.mm.ui.ACTION_ACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=228]
+  #39: act=com.tencent.mm.ui.ACTION_ACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=264]
+  #40: act=android.accounts.LOGIN_ACCOUNTS_CHANGED flg=0x8000010
+  #41: act=com.tencent.mm.ui.ACTION_ACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=256]
+  #42: act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{icon-small=17302851, scale=100, present=true, technology=Li-poly, level=84, voltage=4120, status=2, invalid_charger=0, plugged=1, health=2, temperature=270}]
+  #43: act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{icon-small=17302851, scale=100, present=true, technology=Li-poly, level=84, voltage=4118, status=2, invalid_charger=0, plugged=1, health=2, temperature=272}]
+  #44: act=com.tencent.mm.ui.ACTION_DEACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=272]
+  #45: act=android.accounts.LOGIN_ACCOUNTS_CHANGED flg=0x8000010
+  #46: act=com.tencent.mm.ui.ACTION_ACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=152]
+  #47: act=com.kingroot.master.action.NOTIFY_STATISTIC flg=0x10 pkg=com.kingroot.kinguser (has extras)
+    extras: Bundle[mParcelledData.dataSize=188]
+  #48: act=action.scheduler.access.trigger.timer flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #49: act=com.tencent.mm.ui.ACTION_ACTIVE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=152]
+  ...
+
+  Sticky broadcasts for user -1:
+  * Sticky action android.media.SCO_AUDIO_STATE_CHANGED
+  * Sticky action android.hardware.usb.action.USB_STATE
+  * Sticky action android.intent.action.RADIO_TECHNOLOGY
+  * Sticky action android.provider.Telephony.SPN_STRINGS_UPDATED
+  * Sticky action android.net.nsd.STATE_CHANGED
+  * Sticky action android.intent.action.BATTERY_CHANGED
+  * Sticky action wifi_scan_available
+  * Sticky action android.net.wifi.p2p.PERSISTENT_GROUPS_CHANGED
+  * Sticky action android.net.wifi.p2p.CONNECTION_STATE_CHANGE
+  * Sticky action android.intent.action.SIM_STATE_CHANGED
+  * Sticky action android.intent.action.SIG_STR
+  * Sticky action android.intent.action.SERVICE_STATE
+  * Sticky action android.intent.action.HDMI_PLUGGED
+  * Sticky action android.media.ACTION_SCO_AUDIO_STATE_UPDATED
+  * Sticky action android.media.MASTER_MUTE_CHANGED_ACTION
+  * Sticky action android.net.wifi.p2p.THIS_DEVICE_CHANGED
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE_IMMEDIATE
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE
+  * Sticky action android.net.wifi.RSSI_CHANGED
+  * Sticky action android.net.wifi.supplicant.STATE_CHANGE
+  * Sticky action android.net.conn.TETHER_STATE_CHANGED
+  * Sticky action android.net.wifi.WIFI_STATE_CHANGED
+  * Sticky action android.net.wifi.STATE_CHANGE
+  * Sticky action android.media.RINGER_MODE_CHANGED
+  * Sticky action android.os.UpdateLock.UPDATE_LOCK_CHANGED
+  * Sticky action android.intent.action.ANY_DATA_STATE
+  * Sticky action android.net.wifi.p2p.STATE_CHANGED
+
+  Sticky broadcasts for user 0:
+  * Sticky action miui.usb.action.USB_SHARENET_STATE_CHANGE
+  * Sticky action com.xiaomi.market.action.APP_UPDATE_CHECKED
+  * Sticky action miui.intent.action.BATTERY_CONFIG_CHANGED
+ 
+ACTIVITY MANAGER CONTENT PROVIDERS (dumpsys activity providers)
+  Published single-user content providers (by class):
+  * ContentProviderRecord{428156f8 u0 com.miui.whetstone/com.miui.stepsprovider.StepsProvider}
+    proc=ProcessRecord{42995a50 1424:com.miui.whetstone/1000}
+    singleton=true
+    authority=com.miui.providers.steps
+  * ContentProviderRecord{42911118 u0 com.android.phone/.MiuiIccProvider}
+    proc=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    singleton=true
+    authority=icc
+  * ContentProviderRecord{42922690 u0 com.android.phone/.MSimIccProvider}
+    proc=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    singleton=true
+    authority=iccmsim
+  * ContentProviderRecord{429caea8 u0 com.android.providers.settings/.SettingsProvider}
+    proc=ProcessRecord{4271c6b8 1038:system/1000}
+    singleton=true
+    authority=settings
+    30 connections, 0 external handles
+      -> 1184:com.android.systemui/1000 s1/1 u0/0 +2d5h22m27s572ms
+      -> 1274:android.process.acore/u0a10002 s1/1 u0/0 +2d5h22m26s677ms
+      -> 1288:com.android.settings/1000 s1/1 u0/0 +2d5h22m26s487ms
+      -> 1326:com.android.phone/1001 s1/1 u0/0 +2d5h22m26s346ms
+      -> 1355:com.xiaomi.xmsf/u0a10068 s1/1 u0/0 +2d5h22m26s67ms
+      -> 1341:com.iflytek.inputmethod/u0a10069 s1/1 u0/0 +2d5h22m25s922ms
+      -> 1460:com.miui.home/u0a10037 s1/1 u0/0 +2d5h22m25s691ms
+      -> 1368:com.miui.securitycenter/1000 s1/1 u0/0 +2d5h22m25s546ms
+      -> 1513:com.iflytek.inputmethod.assist/u0a10069 s1/1 u0/0 +2d5h22m24s756ms
+      -> 1202:com.trafficctr.miui/u0a10059 s1/1 u0/0 +2d5h22m1s89ms
+      -> 2821:com.svox.pico/u0a10050 s1/1 u0/0 +2d5h21m58s942ms
+      -> 1437:com.android.deskclock/u0a10017 s1/1 u0/0 +2d5h21m58s35ms
+      -> 1386:com.baidu.map.location/u0a10004 s1/1 u0/0 +2d5h21m21s45ms
+      -> 3847:com.baidu.map.location:remote/u0a10004 s1/1 u0/0 +2d5h21m20s785ms
+      -> 1487:com.lbe.security.miui:service/u0a10028 s1/1 u0/0 +2d5h21m18s794ms
+      -> 9816:com.miui.networkassistant/1000 s1/1 u0/0 +2d3h45m50s538ms
+      -> 11523:com.tencent.mm:push/u0a10079 s1/1 u0/0 +2d3h32m52s702ms
+      -> 32364:android.process.media/u0a10018 s1/1 u0/0 +1d12h50m57s337ms
+      -> 9048:com.android.updater/9802 s1/1 u0/0 +1d6h42m27s103ms
+      -> 1558:com.cleanmaster.sdk/u0a10027 s1/1 u0/0 +1d5h7m48s42ms
+      -> 20297:com.android.mms/u0a10040 s1/1 u0/0 +22h52m39s363ms
+      -> 18643:com.android.email/u0a10019 s1/1 u0/0 +6h17m45s38ms
+      -> 29918:com.miui.guardprovider/u0a10023 s1/1 u0/0 +49m54s182ms
+      -> 31247:com.android.calendar/u0a10009 s1/1 u0/0 +4m9s115ms
+      -> 31388:com.tencent.mm/u0a10079 s1/1 u0/0 +4m5s255ms
+      -> 31724:com.android.thememanager/9801 s1/1 u0/0 +2m50s366ms
+      -> 31775:com.miui.yellowpage/u0a10002 s1/1 u0/0 +2m50s4ms
+      -> 31904:com.android.browser/u0a10007 s1/1 u0/0 +2m23s945ms
+      -> 31959:com.mipay.counter/u0a10034 s1/1 u0/0 +2m23s217ms
+      -> 32141:com.tencent.mm:tools/u0a10079 s1/1 u0/0 +1m57s568ms
+
+
+  Published user 0 content providers (by class):
+  * ContentProviderRecord{42584668 u0 com.android.browser/.provider.BrowserProvider2}
+    proc=ProcessRecord{424773b8 31904:com.android.browser/u0a10007}
+    authority=com.android.browser;browser
+  * ContentProviderRecord{43322540 u0 com.android.email/com.kingsoft.mail.providers.SuggestionsProvider}
+    proc=ProcessRecord{431f2880 18643:com.android.email/u0a10019}
+    authority=com.android.mail.providers.SuggestionsProvider
+  * ContentProviderRecord{42b14870 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderMsg}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.plugin.ext.message
+  * ContentProviderRecord{433225b0 u0 com.android.email/com.kingsoft.email.provider.AttachmentProvider}
+    proc=ProcessRecord{431f2880 18643:com.android.email/u0a10019}
+    authority=com.android.email.attachmentprovider
+  * ContentProviderRecord{42bf5e40 u0 com.android.providers.contacts/.VoicemailContentProvider}
+    proc=ProcessRecord{42876678 1274:android.process.acore/u0a10002}
+    authority=com.android.voicemail
+  * ContentProviderRecord{433225f8 u0 com.android.email/com.kingsoft.mail.providers.EmailAccountCacheProvider}
+    proc=ProcessRecord{431f2880 18643:com.android.email/u0a10019}
+    authority=com.android.email3.accountcache
+  * ContentProviderRecord{42b02cb8 u0 com.tencent.mm/.plugin.base.stub.WXCommProvider}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.sdk.comm.provider
+  * ContentProviderRecord{42a839e0 u0 com.android.settings/.cloud.push.RunningCompatibilityProvider}
+    proc=ProcessRecord{42651e78 1288:com.android.settings/1000}
+    authority=com.android.settings.cloud.compatibility.running
+    1 connections, 0 external handles
+      -> 1038:system/1000 s0/0 u1/1 +2d5h22m1s709ms
+  * ContentProviderRecord{42a69ee0 u0 com.android.settings/.cloud.push.InstallCompatibilityProvider}
+    proc=ProcessRecord{42651e78 1288:com.android.settings/1000}
+    authority=com.android.settings.cloud.compatibility.install
+  * ContentProviderRecord{43530b90 u0 com.miui.yellowpage/.providers.telocation.TelocationProvider}
+    proc=ProcessRecord{424313a8 31775:com.miui.yellowpage/u0a10002}
+    authority=telocation
+  * ContentProviderRecord{43514580 u0 com.miui.guardprovider/.GuardProvider}
+    proc=ProcessRecord{4336ae30 29918:com.miui.guardprovider/u0a10023}
+    authority=guard
+  * ContentProviderRecord{42ad1568 u0 com.tencent.mm/.plugin.gwallet.GWalletQueryProvider}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.plugin.gwallet.queryprovider
+  * ContentProviderRecord{42ac9b20 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderNearBy}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.plugin.ext.NearBy
+  * ContentProviderRecord{432cd318 u0 com.svox.pico/.providers.SettingsProvider}
+    proc=ProcessRecord{42bdee58 2821:com.svox.pico/u0a10050}
+    authority=com.svox.pico.providers.SettingsProvider
+  * ContentProviderRecord{4245b9f0 u0 com.android.providers.media/.MediaProvider}
+    proc=ProcessRecord{4247ae00 32364:android.process.media/u0a10018}
+    authority=media
+  * ContentProviderRecord{42bd6a08 u0 com.android.providers.contacts/.debug.DumpFileProvider}
+    proc=ProcessRecord{42876678 1274:android.process.acore/u0a10002}
+    authority=com.android.contacts.dumpfile
+  * ContentProviderRecord{42a5e2c8 u0 com.android.settings/com.miui.powercenter.provider.PowerDataProvider}
+    proc=ProcessRecord{42651e78 1288:com.android.settings/1000}
+    authority=com.miui.powercenter
+  * ContentProviderRecord{42922290 u0 com.android.providers.telephony/.TelephonyProvider}
+    proc=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    authority=telephony
+  * ContentProviderRecord{42ac9bb8 u0 com.tencent.mm/.plugin.ext.provider.ExtContentProviderBase}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.plugin.ext.ExtContentProviderBase
+  * ContentProviderRecord{425e8f30 u0 com.android.providers.downloads/.DownloadProvider}
+    proc=ProcessRecord{4247ae00 32364:android.process.media/u0a10018}
+    launchingApp=ProcessRecord{4247ae00 32364:android.process.media/u0a10018}
+    authority=downloads
+    1 connections, 0 external handles
+      -> 31724:com.android.thememanager/9801 s1/1 u0/1 +2m50s481ms
+  * ContentProviderRecord{42aec5a8 u0 com.lbe.security.miui/com.lbe.security.service.manager.ServiceProvider}
+    proc=ProcessRecord{42aec778 1487:com.lbe.security.miui:service/u0a10028}
+    launchingApp=ProcessRecord{42aec778 1487:com.lbe.security.miui:service/u0a10028}
+    authority=com.lbe.security.miui.service
+  * ContentProviderRecord{42abaab8 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderSearchContact}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.plugin.ext.SearchContact
+  * ContentProviderRecord{426e0fe0 u0 com.android.calendar/com.miui.calendar.provider.MiuiCalendarProvider}
+    proc=ProcessRecord{42456b08 31247:com.android.calendar/u0a10009}
+    authority=com.miui.calendar
+  * ContentProviderRecord{42a4e9e8 u0 com.android.settings/.provider.MiuiSettingsProvider}
+    proc=ProcessRecord{42651e78 1288:com.android.settings/1000}
+    authority=miui_settings
+  * ContentProviderRecord{42585ce8 u0 com.android.browser/.homepages.HomeProvider}
+    proc=ProcessRecord{424773b8 31904:com.android.browser/u0a10007}
+    authority=com.android.browser.home
+  * ContentProviderRecord{42a94658 u0 com.tencent.mm/.sdk.platformtools.MultiProcessSharedPreferences}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.sdk.platformtools.MultiProcessSharedPreferences
+  * ContentProviderRecord{4325b090 u0 com.android.providers.drm/.DrmProvider}
+    proc=ProcessRecord{4247ae00 32364:android.process.media/u0a10018}
+    authority=drm
+  * ContentProviderRecord{42920e58 u0 com.android.providers.telephony/.FirewallProvider}
+    proc=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    authority=firewall
+  * ContentProviderRecord{432ea8f8 u0 com.miui.gallery/.provider.GalleryCloudProvider}
+    proc=ProcessRecord{42a13fc0 31092:com.miui.gallery/u0a10036}
+    authority=com.miui.gallery.cloud.provider
+  * ContentProviderRecord{42b19c30 u0 com.miui.providers.weather/.WeatherProvider}
+    proc=ProcessRecord{42bb8448 1728:com.miui.providers.weather/u0a10067}
+    launchingApp=ProcessRecord{42bb8448 1728:com.miui.providers.weather/u0a10067}
+    authority=weather;weatherinfo
+    1 connections, 0 external handles
+      -> 1460:com.miui.home/u0a10037 s1/1 u0/1 +2d5h22m23s420ms
+  * ContentProviderRecord{430eac10 u0 com.xiaomi.gamecenter.sdk.service/com.xiaomi.gamecenter.sdk.db.GameCenterSdkProvider}
+    proc=ProcessRecord{431d2a28 31943:com.xiaomi.gamecenter.sdk.service/u0a10022}
+    authority=com.xiaomi.gamecenter.sdk.service.dbcache
+  * ContentProviderRecord{42a28978 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderAccountSync}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.plugin.ext.AccountSync
+  * ContentProviderRecord{42a83668 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderEntry}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.plugin.ext.entry
+  * ContentProviderRecord{425ba6a8 u0 com.android.browser/.PushProvider}
+    proc=ProcessRecord{424773b8 31904:com.android.browser/u0a10007}
+    authority=com.android.browser.push
+  * ContentProviderRecord{43322640 u0 com.android.email/com.kingsoft.mail.browse.EmailConversationProvider}
+    proc=ProcessRecord{431f2880 18643:com.android.email/u0a10019}
+    authority=com.android.email2.conversation.provider
+  * ContentProviderRecord{432ea9d8 u0 com.miui.gallery/.provider.GalleryProvider}
+    proc=ProcessRecord{42a13fc0 31092:com.miui.gallery/u0a10036}
+    authority=com.miui.gallery.provider
+  * ContentProviderRecord{430430e8 u0 com.android.thememanager/.service.ThemeRuntimeDataProvider}
+    proc=ProcessRecord{432107b0 31724:com.android.thememanager/9801}
+    authority=com.android.thememanager.provider
+  * ContentProviderRecord{42a4d1f8 u0 com.android.settings/.cloud.CloudSettingsProvider}
+    proc=ProcessRecord{42651e78 1288:com.android.settings/1000}
+    authority=com.android.settings.cloud.CloudSettings
+    1 connections, 0 external handles
+      -> 1038:system/1000 s0/0 u1/1 +2d5h22m25s107ms
+  * ContentProviderRecord{425ba788 u0 com.android.browser/.provider.SnapshotProvider}
+    proc=ProcessRecord{424773b8 31904:com.android.browser/u0a10007}
+    authority=com.android.browser.snapshots
+  * ContentProviderRecord{42bc14b0 u0 com.android.providers.userdictionary/.UserDictionaryProvider}
+    proc=ProcessRecord{42876678 1274:android.process.acore/u0a10002}
+    authority=user_dictionary
+  * ContentProviderRecord{42afac58 u0 com.xiaomi.xmsf/com.xiaomi.push.providers.TrafficProvider}
+    proc=ProcessRecord{42bac648 1355:com.xiaomi.xmsf/u0a10068}
+    authority=com.xiaomi.push.providers.TrafficProvider
+  * ContentProviderRecord{433226f8 u0 com.android.email/com.kingsoft.exchange.provider.ExchangeDirectoryProvider}
+    proc=ProcessRecord{431f2880 18643:com.android.email/u0a10019}
+    authority=com.android.exchange.directory.provider
+  * ContentProviderRecord{4264fad8 u0 com.miui.home/.launcher.LauncherProvider}
+    proc=ProcessRecord{42805db8 1460:com.miui.home/u0a10037}
+    authority=com.miui.home.launcher.settings
+  * ContentProviderRecord{431bb1f0 u0 com.android.mms/.TempFileProvider}
+    proc=ProcessRecord{42662498 20297:com.android.mms/u0a10040}
+    authority=mms_temp_file
+  * ContentProviderRecord{426d22d0 u0 com.android.calendar/.CalendarRecentSuggestionsProvider}
+    proc=ProcessRecord{42456b08 31247:com.android.calendar/u0a10009}
+    authority=com.android.calendar.CalendarRecentSuggestionsProvider
+  * ContentProviderRecord{42c07790 u0 com.miui.yellowpage/.providers.yellowpage.YellowPageProvider}
+    proc=ProcessRecord{42876678 1274:android.process.acore/u0a10002}
+    authority=miui.yellowpage
+  * ContentProviderRecord{431bb2d0 u0 com.android.mms/.SuggestionsProvider}
+    proc=ProcessRecord{42662498 20297:com.android.mms/u0a10040}
+    authority=com.android.mms.SuggestionsProvider
+  * ContentProviderRecord{42a8bcd8 u0 com.android.deskclock/.AlarmProvider}
+    proc=ProcessRecord{4285d3f0 1437:com.android.deskclock/u0a10017}
+    authority=com.android.deskclock
+  * ContentProviderRecord{4247cf10 u0 com.miui.cloudservice/.push.MicloudPushProviderImpl}
+    proc=ProcessRecord{4315c1e0 31759:com.miui.cloudservice/u0a10014}
+    authority=com.miui.cloudservice
+  * ContentProviderRecord{42e792d0 u0 com.miui.video/com.video.ui.idata.iDataProvider}
+    proc=ProcessRecord{4339ed78 31173:com.miui.video/u0a10039}
+    authority=com.miui.video.mobile
+  * ContentProviderRecord{42a4a9f0 u0 com.android.settings/.cloud.push.ExistCompatibilityProvider}
+    proc=ProcessRecord{42651e78 1288:com.android.settings/1000}
+    authority=com.android.settings.cloud.compatibility.exist
+  * ContentProviderRecord{42b10160 u0 com.xiaomi.xmsf/.push.service.log.LogProvider}
+    proc=ProcessRecord{42bac648 1355:com.xiaomi.xmsf/u0a10068}
+    authority=com.xiaomi.xmsf
+  * ContentProviderRecord{42bc0f60 u0 com.android.providers.applications/.ApplicationsProvider}
+    proc=ProcessRecord{42876678 1274:android.process.acore/u0a10002}
+    authority=applications
+  * ContentProviderRecord{429f7ad0 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderSNS}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.plugin.ext.SNS
+  * ContentProviderRecord{4291ca78 u0 com.android.providers.telephony/.MmsProvider}
+    proc=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    authority=mms
+  * ContentProviderRecord{42bbb508 u0 com.android.providers.contacts/.MiuiContactsProvider}
+    proc=ProcessRecord{42876678 1274:android.process.acore/u0a10002}
+    authority=com.miui.contacts
+  * ContentProviderRecord{425d1850 u0 com.android.browser/.cloud.BrowserPushProvider}
+    proc=ProcessRecord{424773b8 31904:com.android.browser/u0a10007}
+    authority=com.android.browser.cloudPush
+  * ContentProviderRecord{429193c0 u0 com.android.providers.telephony/.HmsProvider}
+    proc=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    authority=hms
+  * ContentProviderRecord{42af50b8 u0 com.android.providers.telephony/.SmsProvider}
+    proc=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    launchingApp=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    authority=sms
+  * ContentProviderRecord{42a3faa8 u0 com.android.settings/.wifi.WifiProvider}
+    proc=ProcessRecord{42651e78 1288:com.android.settings/1000}
+    authority=wifi
+  * ContentProviderRecord{426f1f20 u0 com.android.browser/miui.browser.webapps.db.WebappsContentProvider}
+    proc=ProcessRecord{424773b8 31904:com.android.browser/u0a10007}
+    authority=miui.browser.webapps
+  * ContentProviderRecord{43316430 u0 com.kingroot.kinguser/.filesystem.storage.KuMpStorageProvider}
+    proc=ProcessRecord{4257fce8 2700:com.kingroot.kinguser:service/u0a10038}
+    authority=com.kingroot.kingusesr.mpstorage
+  * ContentProviderRecord{434a84a0 u0 com.android.email/com.kingsoft.mail.providers.EmlAttachmentProvider}
+    proc=ProcessRecord{431f2880 18643:com.android.email/u0a10019}
+    authority=com.android.email.provider.eml.attachment
+  * ContentProviderRecord{424d9dd0 u0 com.miui.networkassistant/.provider.NetworkAssistantProvider}
+    proc=ProcessRecord{42467028 9816:com.miui.networkassistant/1000}
+    authority=com.miui.networkassistant.provider
+    1 connections, 0 external handles
+      -> 1184:com.android.systemui/1000 s0/0 u1/1 +2d3h35m56s135ms
+  * ContentProviderRecord{434a8610 u0 com.android.email/com.kingsoft.email.provider.ContactProvider}
+    proc=ProcessRecord{431f2880 18643:com.android.email/u0a10019}
+    authority=com.android.provicer.contact
+  * ContentProviderRecord{434a8558 u0 com.android.email/com.kingsoft.email.provider.EmailProvider}
+    proc=ProcessRecord{431f2880 18643:com.android.email/u0a10019}
+    authority=com.android.email.provider;com.android.email.notifier
+  * ContentProviderRecord{42748530 u0 com.android.providers.calendar/.CalendarProvider2}
+    proc=ProcessRecord{427487a8 32463:com.android.providers.calendar/u0a10010}
+    launchingApp=ProcessRecord{427487a8 32463:com.android.providers.calendar/u0a10010}
+    authority=com.android.calendar
+  * ContentProviderRecord{431bb388 u0 com.android.mms/.providers.NetworkFileProvider}
+    proc=ProcessRecord{42662498 20297:com.android.mms/u0a10040}
+    authority=com.android.mms.providers.NetworkFileProvider
+  * ContentProviderRecord{42a758b8 u0 com.lbe.security.miui/com.lbe.security.service.su.SuContentProvider}
+    proc=ProcessRecord{42aec778 1487:com.lbe.security.miui:service/u0a10028}
+    authority=com.lbe.security.miui.su
+  * ContentProviderRecord{42bff860 u0 com.android.providers.contacts/.ContactsProvider2}
+    proc=ProcessRecord{42876678 1274:android.process.acore/u0a10002}
+    authority=contacts;com.android.contacts
+  * ContentProviderRecord{42917800 u0 com.android.providers.telephony/.MmsSmsProvider}
+    proc=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    authority=mms-sms
+  * ContentProviderRecord{429f38c8 u0 com.tencent.mm/.plugin.base.stub.MMPluginProvider}
+    proc=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    authority=com.tencent.mm.sdk.plugin.provider
+  * ContentProviderRecord{432eaa90 u0 com.miui.gallery/.provider.GalleryCloudPushProvider}
+    proc=ProcessRecord{42a13fc0 31092:com.miui.gallery/u0a10036}
+    authority=com.miui.gallery.cloud.push
+  * ContentProviderRecord{427f5808 u0 com.android.providers.contacts/.CallLogProvider}
+    proc=ProcessRecord{42876678 1274:android.process.acore/u0a10002}
+    launchingApp=ProcessRecord{42876678 1274:android.process.acore/u0a10002}
+    authority=call_log
+ 
+ACTIVITY MANAGER SERVICES (dumpsys activity services)
+  User 0 active services:
+  * ServiceRecord{428a8c38 u0 com.tencent.mm/.booter.NotifyReceiver$NotifyService}
+    app=ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    created=-4m4s220ms started=true connections=0
+  * ServiceRecord{4334e068 u0 com.android.phone/.TelephonyDebugService}
+    app=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    created=-2d5h21m59s480ms started=true connections=0
+  * ServiceRecord{425e6ea0 u0 com.android.settings/com.miui.optimizecenter.CheckGarbageCleanupService}
+    app=ProcessRecord{428a6c68 1368:com.miui.securitycenter/1000}
+    created=-1d5h9m15s912ms started=true connections=0
+  * ServiceRecord{42c23fd0 u0 com.xiaomi.xmsf/.account.ActivateService}
+    app=ProcessRecord{42bac648 1355:com.xiaomi.xmsf/u0a10068}
+    created=-2d5h22m12s724ms started=true connections=0
+  * ServiceRecord{43448c40 u0 com.miui.networkassistant/.service.tm.TrafficManageService}
+    app=ProcessRecord{42467028 9816:com.miui.networkassistant/1000}
+    created=-2d5h21m55s945ms started=true connections=1
+    Connections:
+       -> 9816:com.miui.networkassistant/1000
+  * ServiceRecord{43075770 u0 com.miui.guardprovider/.service.FileProxyService}
+    app=ProcessRecord{431eb150 12843:com.miui.guardprovider:remote/u0a10023}
+    created=-1d5h8m45s796ms started=false connections=1
+    Connections:
+      act=miui.intent.action.FILE_PROXY_SERVICE -> 1368:com.miui.securitycenter/1000
+  * ServiceRecord{429d0050 u0 com.miui.guardprovider/.SecureService}
+    app=ProcessRecord{4336ae30 29918:com.miui.guardprovider/u0a10023}
+    created=-2d5h22m5s371ms started=true connections=0
+  * ServiceRecord{42b03ed8 u0 com.qualcomm.services.location/.LocationAlarmService}
+    app=ProcessRecord{42b77a00 1414:com.qualcomm.services.location/1000}
+    created=-2d5h21m52s617ms started=true connections=0
+  * ServiceRecord{42a6bb30 u0 com.android.bluetooth/.pan.PanService}
+    app=null
+    created=-2d5h22m28s466ms started=false connections=2
+    Connections:
+      act=android.bluetooth.IBluetoothPan -> 1288:com.android.settings/1000
+      act=android.bluetooth.IBluetoothPan -> 1038:system/1000
+  * ServiceRecord{4257ca30 u0 com.dsi.ant.server/.AntService}
+    app=ProcessRecord{4271c6b8 1038:system/1000}
+    created=-2d5h21m59s29ms started=true connections=0
+  * ServiceRecord{42b7f528 u0 com.android.bluetooth/.a2dp.A2dpService}
+    app=null
+    created=-2d5h22m20s827ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothA2dp -> 1038:system/1000
+  * ServiceRecord{428e1fd0 u0 com.android.systemui/.SystemUIService}
+    app=ProcessRecord{4297d7b8 1184:com.android.systemui/1000}
+    created=-2d5h22m27s800ms started=true connections=0
+  * ServiceRecord{43a68a50 u0 com.trafficctr.miui/com.opera.max.sdk.traffic.TrafficService}
+    app=ProcessRecord{427759c0 1202:com.trafficctr.miui/u0a10059}
+    created=-2d3h45m50s476ms started=false connections=1
+    Connections:
+      act=com.opera.max.sdk.traffic.TrafficService -> 9816:com.miui.networkassistant/1000
+  * ServiceRecord{433bf8c0 u0 com.android.de/.MeSyncService}
+    app=ProcessRecord{434872f8 29630:com.android.de/u0a10064}
+    created=-2d5h21m52s763ms started=true connections=0
+  * ServiceRecord{4285c2e8 u0 com.android.providers.downloads.ui/com.xunlei.auth.service.XLOAuthService}
+    app=ProcessRecord{4247ae00 32364:android.process.media/u0a10018}
+    created=-2d5h22m23s286ms started=true connections=0
+  * ServiceRecord{42a51b70 u0 com.baidu.map.location/.BaiduNetworkLocationService}
+    app=ProcessRecord{428c7aa0 1386:com.baidu.map.location/u0a10004}
+    created=-2d5h22m25s662ms started=false connections=2
+    Connections:
+      act=com.android.location.service.GeocodeProvider pkg=com.baidu.map.location -> 1038:system/1000
+      act=com.android.location.service.v2.NetworkLocationProvider pkg=com.baidu.map.location -> 1038:system/1000
+  * ServiceRecord{42aa69d0 u0 com.iflytek.inputmethod/.service.assist.external.impl.AssistService}
+    app=ProcessRecord{42aa7200 1513:com.iflytek.inputmethod.assist/u0a10069}
+    created=-2d5h22m25s882ms started=true connections=1
+    Connections:
+       -> 1341:com.iflytek.inputmethod/u0a10069
+  * ServiceRecord{4312d660 u0 com.tencent.mm/.booter.CoreService}
+    app=ProcessRecord{4312da88 11523:com.tencent.mm:push/u0a10079}
+    created=-2d3h32m54s220ms started=true connections=1
+    Connections:
+       -> 31388:com.tencent.mm/u0a10079
+  * ServiceRecord{42b48af8 u0 com.android.systemui/.ImageWallpaper}
+    app=ProcessRecord{4297d7b8 1184:com.android.systemui/1000}
+    created=-2d5h22m26s561ms started=false connections=1
+    Connections:
+      act=android.service.wallpaper.WallpaperService -> 1038:system/1000
+  * ServiceRecord{42f00e68 u0 com.xiaomi.xmsf/com.xiaomi.push.service.XMPushService}
+    app=ProcessRecord{42bac648 1355:com.xiaomi.xmsf/u0a10068}
+    created=-2m50s368ms started=true connections=0
+  * ServiceRecord{435bea60 u0 com.tencent.mm/.sandbox.updater.UpdaterService}
+    app=ProcessRecord{4248be90 32040:com.tencent.mm:sandbox/u0a10079}
+    created=-2m18s409ms started=true connections=0
+  * ServiceRecord{4317fe10 u0 com.android.phone/.BluetoothPhoneService}
+    app=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    created=-2d5h21m59s442ms started=true connections=1
+    Connections:
+       -> 1326:com.android.phone/1001
+  * ServiceRecord{42add9d0 u0 com.android.providers.contacts/.GuardService}
+    app=ProcessRecord{42876678 1274:android.process.acore/u0a10002}
+    created=-2d5h22m26s841ms started=true connections=0
+  * ServiceRecord{434f7ee0 u0 com.xiaomi.xmsf/.account.XiaomiAccountService}
+    app=ProcessRecord{42bac648 1355:com.xiaomi.xmsf/u0a10068}
+    created=-1d12h50m57s316ms started=false connections=1
+    Connections:
+      act=android.intent.action.BIND_XIAOMI_ACCOUNT_SERVICE -> 32364:android.process.media/u0a10018
+  * ServiceRecord{42a37c00 u0 com.android.bluetooth/.pbap.BluetoothPbapService}
+    app=null
+    created=-2d5h22m26s103ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothPbap -> 1288:com.android.settings/1000
+  * ServiceRecord{42a003a8 u0 com.miui.home/.launcher.ForegroundPlaceholderService}
+    app=ProcessRecord{42805db8 1460:com.miui.home/u0a10037}
+    created=-2d5h22m23s70ms started=true connections=0
+  * ServiceRecord{42ded720 u0 com.cleanmaster.sdk/com.cleanmaster.CleanService}
+    app=ProcessRecord{42788fa8 1558:com.cleanmaster.sdk/u0a10027}
+    created=-2d5h22m13s93ms started=false connections=4
+    Connections:
+      act=com.cleanmaster.action.sdk.CleanService -> 1368:com.miui.securitycenter/1000
+      act=com.cleanmaster.action.sdk.CleanService -> 1368:com.miui.securitycenter/1000
+      act=com.cleanmaster.action.sdk.CleanService -> 1368:com.miui.securitycenter/1000
+      act=com.cleanmaster.action.sdk.CleanService -> 1368:com.miui.securitycenter/1000
+  * ServiceRecord{42987318 u0 com.android.defcontainer/.DefaultContainerService}
+    app=ProcessRecord{42b614d8 1860:com.android.defcontainer/u0a10016}
+    created=-2d5h22m27s825ms started=false connections=1
+    Connections:
+       -> 1038:system/1000
+  * ServiceRecord{43a81010 u0 com.android.providers.media/.MtpService}
+    app=ProcessRecord{4247ae00 32364:android.process.media/u0a10018}
+    created=-4m9s839ms started=true connections=1
+    Connections:
+       -> 32364:android.process.media/u0a10018
+  * ServiceRecord{42beb208 u0 com.lbe.security.miui/com.lbe.security.service.SecurityService}
+    app=ProcessRecord{42aec778 1487:com.lbe.security.miui:service/u0a10028}
+    created=-2d5h22m24s288ms started=true connections=1
+    Connections:
+       -> 1368:com.miui.securitycenter/1000
+  * ServiceRecord{43a6df70 u0 com.trafficctr.miui/com.opera.max.sdk.saving.SavingService}
+    app=ProcessRecord{427759c0 1202:com.trafficctr.miui/u0a10059}
+    created=-2d3h45m50s482ms started=false connections=1
+    Connections:
+      act=com.opera.max.sdk.saving.SavingService -> 9816:com.miui.networkassistant/1000
+  * ServiceRecord{434d6088 u0 com.android.mms/.transaction.SmsReportService}
+    app=ProcessRecord{42662498 20297:com.android.mms/u0a10040}
+    created=-2d5h21m56s453ms started=true connections=0
+  * ServiceRecord{42a01908 u0 com.qualcomm.services.location/.xtwifi.XTWiFiOsAgent}
+    app=ProcessRecord{42b77a00 1414:com.qualcomm.services.location/1000}
+    created=-2d5h21m52s609ms started=true connections=0
+  * ServiceRecord{42bfb198 u0 com.kingroot.kinguser/com.kingroot.common.framework.service.KSysService}
+    app=ProcessRecord{4257fce8 2700:com.kingroot.kinguser:service/u0a10038}
+    created=-2d5h22m24s578ms started=true connections=1
+    Connections:
+       -> 2700:com.kingroot.kinguser:service/u0a10038
+  * ServiceRecord{42aaa9a0 u0 com.android.settings/com.miui.securitycenter.SecurityCenterService}
+    app=ProcessRecord{428a6c68 1368:com.miui.securitycenter/1000}
+    created=-2d5h22m26s435ms started=true connections=0
+  * ServiceRecord{428fc668 u0 com.baidu.map.location/com.baidu.location.f}
+    app=ProcessRecord{42588768 3847:com.baidu.map.location:remote/u0a10004}
+    created=-2d5h21m21s69ms started=false connections=1
+    Connections:
+      act=com.baidu.locationx.service -> 1386:com.baidu.map.location/u0a10004
+  * ServiceRecord{42c048a0 u0 com.qualcomm.location/.LocationService}
+    app=ProcessRecord{4271c6b8 1038:system/1000}
+    created=-2d5h21m52s656ms started=true connections=0
+  * ServiceRecord{42b118a0 u0 com.android.bluetooth/.hid.HidService}
+    app=null
+    created=-2d5h22m26s131ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothInputDevice -> 1288:com.android.settings/1000
+  * ServiceRecord{42b0fc20 u0 com.android.ss/.SyncService}
+    app=ProcessRecord{43145818 29769:com.android.ss/u0a10001}
+    created=-2d5h22m7s444ms started=true connections=0
+  * ServiceRecord{42972648 u0 com.android.settings/.wifi.MiuiWifiService}
+    app=ProcessRecord{42651e78 1288:com.android.settings/1000}
+    created=-2d5h22m4s673ms started=true connections=0
+  * ServiceRecord{434c2310 u0 com.miui.networkassistant/.service.FirewallService}
+    app=ProcessRecord{42467028 9816:com.miui.networkassistant/1000}
+    created=-2d5h21m55s951ms started=true connections=1
+    Connections:
+       -> 9816:com.miui.networkassistant/1000
+  * ServiceRecord{42764898 u0 com.android.settings/com.miui.powercenter.provider.PowerSaveService}
+    app=ProcessRecord{428a6c68 1368:com.miui.securitycenter/1000}
+    created=-2d5h21m54s106ms started=true connections=0
+  * ServiceRecord{431d1f40 u0 com.qualcomm.location/.LBSSystemMonitorService}
+    app=ProcessRecord{4271c6b8 1038:system/1000}
+    created=-2d5h21m52s662ms started=true connections=0
+  * ServiceRecord{4267de90 u0 com.qualcomm.location/.ulp.UlpService}
+    app=ProcessRecord{4271c6b8 1038:system/1000}
+    created=-2d5h22m25s761ms started=false connections=1
+    Connections:
+      act=com.android.location.service.FusedLocationProvider pkg=com.qualcomm.location -> 1038:system/1000
+  * ServiceRecord{435492d8 u0 com.android.thememanager/.service.ThemeTaskService}
+    app=ProcessRecord{432107b0 31724:com.android.thememanager/9801}
+    created=-2d5h21m52s924ms started=true connections=0
+  * ServiceRecord{42c21068 u0 com.android.providers.telephony/.MakeMmsPreviewService}
+    app=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    created=-2d5h22m9s488ms started=true connections=0
+  * ServiceRecord{4275e420 u0 com.android.stk/.StkAppService}
+    app=ProcessRecord{428d7930 1326:com.android.phone/1001}
+    created=-2d5h21m54s39ms started=true connections=0
+  * ServiceRecord{42502830 u0 com.iflytek.inputmethod/.FlyIME}
+    app=ProcessRecord{428dcfa0 1341:com.iflytek.inputmethod/u0a10069}
+    created=-2d5h22m26s546ms started=false connections=1
+    Connections:
+      act=android.view.InputMethod -> 1038:system/1000
+  * ServiceRecord{428730a8 u0 com.android.settings/.analytics.ObserverService}
+    app=ProcessRecord{42651e78 1288:com.android.settings/1000}
+    created=-2d5h21m54s149ms started=true connections=0
+  * ServiceRecord{439838f0 u0 com.android.updater/.UpdaterBackgroundService}
+    app=ProcessRecord{4243b0b0 9048:com.android.updater/9802}
+    created=-1d6h42m48s19ms started=true connections=0
+  * ServiceRecord{4327f540 u0 com.xiaomi.xmsf/.account.MiCloudStatusService}
+    app=ProcessRecord{42bac648 1355:com.xiaomi.xmsf/u0a10068}
+    created=-2d5h21m52s733ms started=true connections=0
+  * ServiceRecord{42bdc1b0 u0 com.qualcomm.location/.GeoFenceService}
+    app=ProcessRecord{4271c6b8 1038:system/1000}
+    created=-2d5h22m26s319ms started=false connections=1
+    Connections:
+      act=com.qualcomm.location -> 1038:system/1000
+  * ServiceRecord{42a91a20 u0 android/.hardware.location.GeofenceHardwareService}
+    app=ProcessRecord{4271c6b8 1038:system/1000}
+    created=-2d5h22m26s323ms started=false connections=1
+    Connections:
+       -> 1038:system/1000
+  * ServiceRecord{42a092d8 u0 com.svox.pico/.PicoService}
+    app=ProcessRecord{42bdee58 2821:com.svox.pico/u0a10050}
+    created=-2d5h21m59s364ms started=false connections=2
+    Connections:
+      act=android.intent.action.TTS_SERVICE pkg=com.svox.pico -> 1326:com.android.phone/1001
+      act=android.intent.action.TTS_SERVICE pkg=com.svox.pico -> 20297:com.android.mms/u0a10040
+  * ServiceRecord{42b94830 u0 com.android.bluetooth/.hfp.HeadsetService}
+    app=null
+    created=-2d5h22m20s829ms started=false connections=4
+    Connections:
+      act=android.bluetooth.IBluetoothHeadset -> 1326:com.android.phone/1001
+      act=android.bluetooth.IBluetoothHeadset -> 1038:system/1000
+      act=android.bluetooth.IBluetoothHeadset -> 1326:com.android.phone/1001
+      act=android.bluetooth.IBluetoothHeadset -> 1326:com.android.phone/1001
+  * ServiceRecord{433a9aa8 u0 com.xiaomi.xmsf/.account.AlertSyncService}
+    app=ProcessRecord{42bac648 1355:com.xiaomi.xmsf/u0a10068}
+    created=-2d5h21m52s735ms started=true connections=0
+ 
+ACTIVITY MANAGER ACTIVITIES (dumpsys activity activities)
+  Main stack:
+    TaskRecord{43221a58 #26 A com.tencent.mm U 0}
+    Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10600000 cmp=com.tencent.mm/.ui.LauncherUI }
+      Hist #2: ActivityRecord{432bc6c8 u0 com.tencent.mm/.plugin.chatroom.ui.ChatroomInfoUI}
+        Intent { cmp=com.tencent.mm/.plugin.chatroom.ui.ChatroomInfoUI (has extras) }
+        ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+      Hist #1: ActivityRecord{424ed438 u0 com.tencent.mm/.ui.LauncherUI}
+        Intent { flg=0x4000000 cmp=com.tencent.mm/.ui.LauncherUI }
+        ProcessRecord{424b8128 31388:com.tencent.mm/u0a10079}
+    TaskRecord{4278c468 #2 A com.miui.home U 0}
+    Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10600000 cmp=com.miui.home/.launcher.Launcher }
+      Hist #0: ActivityRecord{4284f838 u0 com.miui.home/.launcher.Launcher}
+        Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.miui.home/.launcher.Launcher }
+        ProcessRecord{42805db8 1460:com.miui.home/u0a10037}
+ 
+  Running activities (most recent first):
+    TaskRecord{43221a58 #26 A com.tencent.mm U 0}
+      Run #2: ActivityRecord{432bc6c8 u0 com.tencent.mm/.plugin.chatroom.ui.ChatroomInfoUI}
+      Run #1: ActivityRecord{424ed438 u0 com.tencent.mm/.ui.LauncherUI}
+    TaskRecord{4278c468 #2 A com.miui.home U 0}
+      Run #0: ActivityRecord{4284f838 u0 com.miui.home/.launcher.Launcher}
+ 
+  mResumedActivity: ActivityRecord{432bc6c8 u0 com.tencent.mm/.plugin.chatroom.ui.ChatroomInfoUI}
+  mFocusedActivity: ActivityRecord{432bc6c8 u0 com.tencent.mm/.plugin.chatroom.ui.ChatroomInfoUI}
+
+  Recent tasks:
+  * Recent #0: TaskRecord{43221a58 #26 A com.tencent.mm U 0}
+  * Recent #1: TaskRecord{43149550 #69 A com.kingroot.kinguser U 0}
+  * Recent #2: TaskRecord{43219628 #40 A com.android.packageinstaller U 0}
+  * Recent #3: TaskRecord{4278c468 #2 A com.miui.home U 0}
+ 
+ACTIVITY MANAGER RUNNING PROCESSES (dumpsys activity processes)
+  Process LRU list (sorted by oom_adj):
+    PERS #48: adj=pers /F  trm= 0 1404:com.lbe.security.miui/u0a10028 (fixed)
+    PERS #47: adj=pers /F  trm= 0 1437:com.android.deskclock/u0a10017 (fixed)
+    PERS #46: adj=pers /F  trm= 0 1424:com.miui.whetstone/1000 (fixed)
+    PERS #45: adj=pers /F  trm= 0 1414:com.qualcomm.services.location/1000 (fixed)
+    PERS #21: adj=pers /F  trm= 0 1326:com.android.phone/1001 (fixed)
+    PERS #12: adj=pers /F  trm= 0 1355:com.xiaomi.xmsf/u0a10068 (fixed)
+    PERS # 9: adj=pers /F  trm= 0 1038:system/1000 (fixed)
+    PERS # 3: adj=pers /F  trm= 0 1184:com.android.systemui/1000 (fixed)
+    PERS # 1: adj=pers /F  trm= 0 1202:com.trafficctr.miui/u0a10059 (fixed)
+    Proc #44: adj=fore /FA trm= 0 1460:com.miui.home/u0a10037 (top-activity)
+    Proc #36: adj=fore /F  trm= 0 1728:com.miui.providers.weather/u0a10067 (provider)
+        com.miui.providers.weather/.WeatherProvider<=Proc{1460:com.miui.home/u0a10037}
+    Proc #11: adj=fore /FA trm= 0 31388:com.tencent.mm/u0a10079 (top-activity)
+    Proc # 2: adj=fore /F  trm= 0 9816:com.miui.networkassistant/1000 (provider)
+        com.miui.networkassistant/.provider.NetworkAssistantProvider<=Proc{1184:com.android.systemui/1000}
+    Proc # 0: adj=fore /F  trm= 0 1288:com.android.settings/1000 (provider)
+        com.android.settings/.cloud.push.RunningCompatibilityProvider<=Proc{1038:system/1000}
+    Proc #20: adj=vis  /F  trm= 0 2821:com.svox.pico/u0a10050 (service)
+        com.svox.pico/.PicoService<=Proc{1326:com.android.phone/1001}
+    Proc #10: adj=vis  /FS trm= 0 11523:com.tencent.mm:push/u0a10079 (service)
+        com.tencent.mm/.booter.CoreService<=Proc{31388:com.tencent.mm/u0a10079}
+    Proc # 8: adj=vis  /B  trm= 0 1386:com.baidu.map.location/u0a10004 (service)
+        com.baidu.map.location/.BaiduNetworkLocationService<=Proc{1038:system/1000}
+    Proc # 7: adj=vis  /B  trm= 0 3847:com.baidu.map.location:remote/u0a10004 (service)
+        com.baidu.map.location/com.baidu.location.f<=Proc{1386:com.baidu.map.location/u0a10004}
+    Proc # 6: adj=vis  /F  trm= 0 1860:com.android.defcontainer/u0a10016 (service)
+        com.android.defcontainer/.DefaultContainerService<=Proc{1038:system/1000}
+    Proc #43: adj=prcp /FS trm= 0 1368:com.miui.securitycenter/1000 (fg-service)
+    Proc #42: adj=prcp /F  trm= 0 12843:com.miui.guardprovider:remote/u0a10023 (service)
+        com.miui.guardprovider/.service.FileProxyService<=Proc{1368:com.miui.securitycenter/1000}
+    Proc #41: adj=prcp /F  trm= 0 1487:com.lbe.security.miui:service/u0a10028 (force-fg)
+        {null}<=android.os.BinderProxy@42647da8
+    Proc #40: adj=prcp /F  trm= 0 1558:com.cleanmaster.sdk/u0a10027 (service)
+        com.cleanmaster.sdk/com.cleanmaster.CleanService<=Proc{1368:com.miui.securitycenter/1000}
+    Proc #17: adj=prcp /FS trm= 0 1274:android.process.acore/u0a10002 (fg-service)
+    Proc # 5: adj=prcp /F  trm= 0 1341:com.iflytek.inputmethod/u0a10069 (service)
+        com.iflytek.inputmethod/.FlyIME<=Proc{1038:system/1000}
+    Proc # 4: adj=prcp /F  trm= 0 1513:com.iflytek.inputmethod.assist/u0a10069 (service)
+        com.iflytek.inputmethod/.service.assist.external.impl.AssistService<=Proc{1341:com.iflytek.inputmethod/u0a10069}
+    Proc #29: adj=svc  /B  trm= 0 31724:com.android.thememanager/9801 (started-services)
+    Proc #28: adj=svc  /B  trm= 0 32364:android.process.media/u0a10018 (started-services)
+    Proc #16: adj=svc  /B  trm= 0 32040:com.tencent.mm:sandbox/u0a10079 (started-services)
+    Proc #39: adj=svcb /B  trm= 0 29630:com.android.de/u0a10064 (started-services)
+    Proc #38: adj=svcb /B  trm= 0 29769:com.android.ss/u0a10001 (started-services)
+    Proc #37: adj=svcb /B  trm= 0 29918:com.miui.guardprovider/u0a10023 (started-services)
+    Proc #32: adj=svcb /B  trm= 0 9048:com.android.updater/9802 (started-services)
+    Proc #26: adj=bak  /B  trm= 0 20297:com.android.mms/u0a10040 (bg-services)
+    Proc #14: adj=bak  /B  trm= 0 2700:com.kingroot.kinguser:service/u0a10038 (started-bg-ui-services)
+    Proc #13: adj=bak  /B  trm= 0 31904:com.android.browser/u0a10007 (bg-empty)
+    Proc #18: adj=bak+2/B  trm= 0 32463:com.android.providers.calendar/u0a10010 (bg-empty)
+    Proc #15: adj=bak+2/B  trm= 0 32141:com.tencent.mm:tools/u0a10079 (bg-empty)
+    Proc #22: adj=bak+4/B  trm= 0 31943:com.xiaomi.gamecenter.sdk.service/u0a10022 (bg-empty)
+    Proc #19: adj=bak+4/B  trm= 0 31247:com.android.calendar/u0a10009 (bg-empty)
+    Proc #35: adj=bak+6/B  trm= 0 5629:com.miui.weather2:weatherservice/u0a10066 (bg-empty)
+    Proc #34: adj=bak+6/B  trm= 0 31092:com.miui.gallery/u0a10036 (bg-empty)
+    Proc #33: adj=bak+6/B  trm= 0 31173:com.miui.video/u0a10039 (bg-empty)
+    Proc #31: adj=bak+6/B  trm= 0 31273:com.miui.weather2:receiverreportweather/u0a10066 (bg-empty)
+    Proc #30: adj=bak+6/B  trm= 0 31285:com.miui.weather2:reportweatherservice/u0a10066 (bg-empty)
+    Proc #27: adj=bak+6/B  trm= 0 31759:com.miui.cloudservice/u0a10014 (bg-empty)
+    Proc #25: adj=bak+6/B  trm= 0 31775:com.miui.yellowpage/u0a10002 (bg-empty)
+    Proc #24: adj=bak+6/B  trm= 0 18643:com.android.email/u0a10019 (bg-empty)
+    Proc #23: adj=bak+6/B  trm= 0 31959:com.mipay.counter/u0a10034 (bg-empty)
+ 
+  Foreground Processes:
+    PID #1487: com.android.server.am.ActivityManagerService$7@4260dc20
+
+  mStartedUsers:
+    User #0: mState=RUNNING
+  mStartedUserArray: [0]
+  mUserLru: [0]
+  mHomeProcess: ProcessRecord{42805db8 1460:com.miui.home/u0a10037}
+  mPreviousProcess: null
+  mConfiguration: {1.0 ?mcc?mnc zh_CN ldltr sw360dp w360dp h615dp 320dpi nrml long port finger -keyb/v/h -nav/h s.5 themeChanged=0 themeChangedFlags=0}

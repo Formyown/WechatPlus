@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="oa">40.0dip</dimen>
+    <dimen name="ob">4.0dip</dimen>
+    <dimen name="oc">16.0dip</dimen>
+    <dimen name="od">12.0dip</dimen>
+    <dimen name="oe">-2.0dip</dimen>
+    <dimen name="of">4.0dip</dimen>
+</resources>

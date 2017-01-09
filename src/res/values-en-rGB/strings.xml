@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="w">Get Google Play services</string>
+    <string name="x">"This app won't run without Google Play services, which are missing from your phone."</string>
+    <string name="y">"This app won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="z">Get Google Play services</string>
+    <string name="a0">Enable Google Play services</string>
+    <string name="a1">"This app won't work unless you enable Google Play services."</string>
+    <string name="a2">Enable Google Play services</string>
+    <string name="a3">Update Google Play services</string>
+    <string name="a4">"This app won't run unless you update Google Play services."</string>
+    <string name="a5">Unknown issue with Google Play services.</string>
+    <string name="a6">Google Play services</string>
+    <string name="a7">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="a8">Update</string>
+    <string name="a9">Sign in</string>
+    <string name="a_">Sign in with Google</string>
+    <string name="aa">Google Play services error</string>
+    <string name="ab">An application requires installation of Google Play services.</string>
+    <string name="ac">An application requires an update for Google Play Services.</string>
+    <string name="ad">An application requires Google Play services to be enabled.</string>
+    <string name="ae">Requested by %1$s</string>
+    <string name="af">Network Error</string>
+    <string name="ag">A data connection is required to connect to Google Play services.</string>
+    <string name="ah">Invalid Account</string>
+    <string name="ai">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="aj">The date on the device appears to be incorrect. Please check the date on the device.</string>
+</resources>
